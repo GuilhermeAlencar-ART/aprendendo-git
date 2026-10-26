@@ -1,0 +1,18 @@
+h1 {
+    color: red;
+    font-weight: 900;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    letter-spacing: 2px;
+    line-height: 2px;
+}
+
+body {
+    background-color: blue;
+    font-size: 30px;
+}
+
+p{
+    color: aquamarine;
+    font-size: 50px;
+    
+}
