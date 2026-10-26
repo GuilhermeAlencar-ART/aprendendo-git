@@ -5,3 +5,8 @@ h1 {
     letter-spacing: 2px;
     line-height: 2px;
 }
+
+body {
+    background-color: blue;
+    font-size: 30px;
+}
